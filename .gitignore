@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+# 開発中のスクリーンショットは主要な2枚だけ残す
+screenshots/*
+!screenshots/12-final.png
+!screenshots/17-live-log.png
