@@ -86,7 +86,8 @@ ffmpeg -framerate 24 -i /tmp/frames/%05d.jpg -c:v libx264 -preset slow -crf 27 \
 
 ## ライセンス・クレジット
 
-- コード（`main.js` `world.js` `actors.js` `items.js` `util.js` `tools/`）: このプロジェクト独自のもの。公開時にライセンスを付ける場合はここに追記してください。
+- コード（`main.js` `world.js` `actors.js` `items.js` `util.js` `tools/`）: [MIT License](LICENSE)
 - [three.js](https://threejs.org/) r160（`vendor/`）: MIT License
 - [DotGothic16](https://fonts.google.com/specimen/DotGothic16)（`fonts/`）: SIL Open Font License 1.1（`fonts/OFL.txt` を同梱）
+- 同梱している第三者ライブラリのライセンス全文は [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) にあります。
 - 店の名前・看板・キャラクターはすべて架空のパロディです。「外国人が想像した日本」を誇張して遊んでいるもので、実在の店・団体・人物とは関係ありません。
