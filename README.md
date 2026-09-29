@@ -5,6 +5,8 @@
 
 ![screenshot](screenshots/17-live-log.png)
 
+**遊ぶ（GitHub Pages）: https://kasei-san.com/sushi-dragon/**
+
 動画: [`video/sushi-dragon.mp4`](video/sushi-dragon.mp4)（30秒 / 1280×720 / 約4.6MB）
 
 ## 起動方法
